@@ -1,0 +1,75 @@
+div#sbwc_pc_comparison_data label {
+    float: none;
+    margin: 0;
+    display: block;
+    width: initial !important;
+    padding-bottom: 5px;
+    font-weight: 600;
+    padding-left: 2px;
+}
+
+.sbwc-pc-input-cont {
+    width: 47%;
+    display: inline-block;
+}
+
+div#sbwc_pc_comparison_data {
+    padding: 15px;
+    float: right !important;
+}
+
+div#sbwc_pc_comparison_data input {
+    width: 100%;
+}
+
+.sbwc-pc-add-rem-cont {
+    float: right;
+    position: relative;
+    left: 15px;
+    top: 5px;
+}
+
+input.sbwc_pc_data_content {
+    width: 91% !important;
+}
+
+button.sbwc-pc-add-data {
+    background: #0073aa;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    cursor: pointer;
+}
+
+button.sbwc-pc-rem-data {
+    background: #e40000;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    cursor: pointer;
+}
+
+.sbwc-pc-input-outer-cont {
+    padding-bottom: 15px;
+}
+
+button#sbwc-pc-save-data {
+    width: 90%;
+    font-size: 16px;
+    line-height: 2;
+    background: #0073aa;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
